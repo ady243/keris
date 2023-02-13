@@ -73,7 +73,7 @@ const HomePage = () => {
     <>
       <div className="container">
         <div className="row">
-          <h1 className="text-center">Liste des films</h1>
+          <h1 className="text-center">FILMS</h1>
 
           <div className="row">
             <div className="col-12">
